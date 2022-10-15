@@ -1,0 +1,11 @@
+2022.09.04 14:54:10 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\GitHub\GO\Gorutin\.metals\lsp.trace.json or C:\Users\malik\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.04 14:54:18 INFO  logging to file C:\GitHub\GO\Gorutin\.metals\metals.log
+2022.09.04 14:54:18 INFO  Started: Metals version 0.11.8 in workspace 'C:\GitHub\GO\Gorutin' for client Visual Studio Code 1.70.0.
+2022.09.04 14:54:38 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.09.04 14:54:40 INFO  time: initialize in 22s
+2022.09.04 14:54:51 WARN  Build server is not auto-connectable.
+2022.09.04 14:54:51 WARN  no build tool detected in workspace 'C:\GitHub\GO\Gorutin'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.04 15:10:57 WARN  no build tool detected in workspace 'C:\GitHub\GO\Gorutin'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.04 15:11:05 WARN  no build tool detected in workspace 'C:\GitHub\GO\Gorutin'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.04 15:13:00 WARN  no build tool detected in workspace 'C:\GitHub\GO\Gorutin'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.04 15:13:55 INFO  shutting down Metals
